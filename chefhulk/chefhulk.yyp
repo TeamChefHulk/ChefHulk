@@ -98,7 +98,7 @@
             "Key": "34059a03-4315-4e71-b720-751cf6624d51",
             "Value": {
                 "id": "c952cffd-1730-41fc-8bb3-26c9d9c22fd9",
-                "resourcePath": "objects\\obj_hands\\obj_hands.yy",
+                "resourcePath": "objects\\obj_hulk\\obj_hulk.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -140,6 +140,14 @@
                 "id": "00487e9d-c4c6-4a56-9278-06e8ee308685",
                 "resourcePath": "sprites\\spr_customer\\spr_customer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "729e3a6a-f3d4-4c98-acc7-73cc2f6e2a2a",
+            "Value": {
+                "id": "25b879fe-283c-426d-be07-92e9d8ba0548",
+                "resourcePath": "objects\\obj_tablet\\obj_tablet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -211,6 +219,14 @@
             "Value": {
                 "id": "a22ff3fd-b1ef-4287-8229-f0e29ab324a1",
                 "resourcePath": "sprites\\spr_pizza_cheese\\spr_pizza_cheese.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a7cf1b7d-5c57-423b-8b8d-b70bb800a58c",
+            "Value": {
+                "id": "8f8080f7-bdc8-4b23-be4c-827e470ced1c",
+                "resourcePath": "sprites\\spr_tablet\\spr_tablet.yy",
                 "resourceType": "GMSprite"
             }
         },

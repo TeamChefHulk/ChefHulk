@@ -1,1 +1,0 @@
-global.cash = 0;
