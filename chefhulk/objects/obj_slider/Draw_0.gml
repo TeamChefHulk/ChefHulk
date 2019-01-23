@@ -1,0 +1,1 @@
+if (global.slider_show) draw_self();
