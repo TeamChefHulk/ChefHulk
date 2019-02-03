@@ -1,0 +1,1 @@
+r_text = choose("Can I get a large cheese?", "I need a cheese pizza.", "Cheese pizza, please.", "I'd like the special.");
