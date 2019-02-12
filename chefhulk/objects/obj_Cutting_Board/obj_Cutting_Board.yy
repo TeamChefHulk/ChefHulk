@@ -1,8 +1,8 @@
 {
-    "id": "e165c33c-ac4a-479a-aa5d-5b1c45b485e7",
+    "id": "6d6d9f93-e987-4a3a-bf5d-6c51de851bc1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_oven",
+    "name": "obj_Cutting_Board",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "28844971-0a4a-4f72-982b-859964dab7d5",
+    "spriteId": "8abf9a04-d393-477a-881c-bf3c5dce11f3",
     "visible": true
 }
