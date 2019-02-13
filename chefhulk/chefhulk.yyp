@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "bf5175b8-ccf0-4106-a38c-e745ba085d79",
+            "Value": {
+                "id": "ae8b0820-03bb-42b9-b85f-92d89bbd721e",
+                "resourcePath": "sprites\\sprite30\\sprite30.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3034da3-65b2-4fd4-ac71-096f0901c856",
             "Value": {
                 "id": "bca3ddea-cc1c-48f3-8449-a62fcf540b7f",
@@ -563,6 +571,14 @@
             "Value": {
                 "id": "a819e40c-7826-4e33-a07d-0f8ec34293ab",
                 "resourcePath": "objects\\obj_oven\\obj_oven.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e2e61b29-2f6e-4a06-9c15-475ad17fc489",
+            "Value": {
+                "id": "0af1b33f-7009-4a4d-83f3-77a14eb910fe",
+                "resourcePath": "objects\\obj_Pizza_Raw\\obj_Pizza_Raw.yy",
                 "resourceType": "GMObject"
             }
         },
