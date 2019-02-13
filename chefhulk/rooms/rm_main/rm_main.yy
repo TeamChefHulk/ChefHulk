@@ -2,7 +2,7 @@
 {
     "name": "rm_main",
     "id": "1408a589-3be1-494b-ac80-2dc20dee4b45",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -106,7 +106,32 @@
 {"name": "inst_5940F3F9","id": "1776d566-2780-4c4f-ae69-bc662253a5a5","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5940F3F9","objId": "729e3a6a-f3d4-4c98-acc7-73cc2f6e2a2a","properties": null,"rotation": 0,"scaleX": 0.2900158,"scaleY": 0.2792793,"mvc": "1.0","x": 239.9746,"y": 272}
             ],
             "layers": [
+                {
+                    "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+                    "name": "Instances_1",
+                    "id": "0902342b-d45e-48ac-9d65-47a25f9a21d3",
+                    "depth": 300,
+                    "grid_x": 32,
+                    "grid_y": 32,
+                    "hierarchyFrozen": false,
+                    "hierarchyVisible": true,
+                    "inheritLayerDepth": false,
+                    "inheritLayerSettings": false,
+                    "inheritSubLayers": false,
+                    "inheritVisibility": false,
+                    "instances": [
 
+                    ],
+                    "layers": [
+
+                    ],
+                    "m_parentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "modelName": "GMRInstanceLayer",
+                    "mvc": "1.0",
+                    "userdefined_depth": false,
+                    "visible": true
+                }
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
@@ -119,7 +144,7 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Backdrop",
             "id": "01a399f3-4903-4981-a63f-342549163ac1",
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -169,7 +194,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4291611852 },
-            "depth": 400,
+            "depth": 500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

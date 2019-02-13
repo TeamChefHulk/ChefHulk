@@ -1,0 +1,1 @@
+draw_text_transformed_color(room_width/2-64, room_height-100, "START", 3, 3, 0, c_green, c_green, c_green, c_green, 1);

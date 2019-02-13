@@ -12,3 +12,6 @@ switch(pizza_step)
 	if (cursor_sprite = spr_cheese) pizza_step = 7;
 	break;
 }
+
+if (shake) {__angle=random_range(-1,1)
+    camera_set_view_angle(view_camera[0],__angle);}
