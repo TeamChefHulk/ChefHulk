@@ -1,19 +1,10 @@
 {
-    "id": "729e3a6a-f3d4-4c98-acc7-73cc2f6e2a2a",
+    "id": "3b232f35-1f6a-4968-8de4-366bf3edde7b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tablet",
+    "name": "obj_tablet_Thor",
     "eventList": [
-        {
-            "id": "9fe696ce-c78c-4984-bf55-76f81b0c525d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "729e3a6a-f3d4-4c98-acc7-73cc2f6e2a2a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f0341619-7fd0-4011-b42e-b74affe3887f",
+    "spriteId": "89d8bed3-8400-4ef1-9648-6a7fb99f5aab",
     "visible": true
 }
