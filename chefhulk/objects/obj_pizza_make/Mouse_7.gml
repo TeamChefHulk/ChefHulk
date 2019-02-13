@@ -14,7 +14,9 @@ switch(pizza_step)
 	
 	case 9: 
 	pizza_step = 0;
-	window_set_cursor(cr_none);
-	cursor_sprite = spr_pizza_cheese;
+	//window_set_cursor(cr_none);
+	//cursor_sprite = spr_pizza_cheese;
+	instance_create_depth(x, y, 150, obj_pizza);
+	instance_create_depth(864, 544, 150, obj_pizza_cook);
 	break;
 }

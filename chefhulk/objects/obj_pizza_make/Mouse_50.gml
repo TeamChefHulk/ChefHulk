@@ -28,12 +28,13 @@ switch(pizza_step)
 	
 	case 8: 
 	if (global.slider_show){ global.slider_show = false; window_set_cursor(cr_handpoint); global.anger += 10;
-	obj_pizza_cook.cook_step = 1; pizza_step = 9; 
+	//obj_pizza_cook.cook_step = 1; 
+	pizza_step = 9; 
 	var snd = audio_play_sound(s3, 10, false);
 	audio_sound_set_track_position(snd, sStart);
 	audio_play_sound(splat1, 8, false);
 	shake = 1; alarm[0] = 0.25 * room_speed;
 	instance_create_depth(mouse_x, mouse_y, 200, obj_SHATTER);
-	obj_hulk.sprite_index = spr_hulk_chz; obj_hulk.alarm[0] = 2 * room_speed;}
+	obj_hulk.sprite_index = spr_hulk_chz; obj_hulk.alarm[0] = 1 * room_speed;}
 	break;
 }

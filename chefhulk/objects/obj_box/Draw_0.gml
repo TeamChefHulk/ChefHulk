@@ -6,13 +6,17 @@ switch(box_step)
 	break;
 	
 	case 1:
-	image_index = 1;
+	sprite_index = sprite22;
+	image_xscale = 0.5;
+	image_yscale = 0.5;
 	draw_self();
 	break;
 	
 	case 2:
 	case 3:
-	image_index = 2;
+	sprite_index = sprite22;
+	image_xscale = 0.5;
+	image_yscale = 0.5;
 	draw_self();
 	break;
 }
