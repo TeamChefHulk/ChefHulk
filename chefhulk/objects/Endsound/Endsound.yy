@@ -1,19 +1,10 @@
 {
-    "id": "729e3a6a-f3d4-4c98-acc7-73cc2f6e2a2a",
+    "id": "7d6c8562-c90e-446c-98f6-18fc3c61abbd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tablet",
+    "name": "Endsound",
     "eventList": [
-        {
-            "id": "9fe696ce-c78c-4984-bf55-76f81b0c525d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "729e3a6a-f3d4-4c98-acc7-73cc2f6e2a2a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a7cf1b7d-5c57-423b-8b8d-b70bb800a58c",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
