@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "7a322f1a-24c5-446e-811f-793c1d936de2",
+            "Value": {
+                "id": "073439f9-0da2-4524-80d8-02996e862cae",
+                "resourcePath": "sprites\\sprite23\\sprite23.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f72282f-ae57-4c92-9e7f-e2c53b60b5c4",
             "Value": {
                 "id": "6a7e72be-1efc-4bb1-b3bc-8ddd1bd8ed34",
@@ -295,6 +303,14 @@
             }
         },
         {
+            "Key": "9ad8c13e-717e-4136-8fcb-6a93c8a117f8",
+            "Value": {
+                "id": "b1cae39a-0413-41e9-9e9a-5d69b53b58ed",
+                "resourcePath": "sprites\\sprite24\\sprite24.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f35b1ac-6fa6-437c-863f-e43bceb1dab9",
             "Value": {
                 "id": "27589d27-0342-4eba-b608-7f75204073e8",
@@ -316,6 +332,14 @@
                 "id": "a22ff3fd-b1ef-4287-8229-f0e29ab324a1",
                 "resourcePath": "sprites\\spr_pizza_cheese\\spr_pizza_cheese.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a459fe16-6753-40e1-8b1a-e8aab2773c35",
+            "Value": {
+                "id": "2b131f6b-1f21-48f2-9c4b-63552ba522cf",
+                "resourcePath": "objects\\obj_boxCLOSED\\obj_boxCLOSED.yy",
+                "resourceType": "GMObject"
             }
         },
         {
