@@ -103,10 +103,26 @@
             }
         },
         {
+            "Key": "266973d3-7caa-4b4d-b11a-2e3d9834a478",
+            "Value": {
+                "id": "0edbfce9-397d-46ef-8a31-52380b13a7d6",
+                "resourcePath": "sprites\\sprite27\\sprite27.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28844971-0a4a-4f72-982b-859964dab7d5",
             "Value": {
                 "id": "179f7b7f-4e24-4d2d-b67d-2cafd5235cb5",
                 "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29f568bc-5c59-4810-8698-9d90919fbb65",
+            "Value": {
+                "id": "a1b8a497-6e84-4531-b1e7-4f271a9dc7d0",
+                "resourcePath": "sprites\\sprite25\\sprite25.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -135,6 +151,22 @@
             }
         },
         {
+            "Key": "4bc9659e-c0b7-4ceb-94f8-b4c03d75d8d2",
+            "Value": {
+                "id": "de2504da-2c21-4b4c-baea-c49856f6a4aa",
+                "resourcePath": "objects\\obj_Hulk_Dough_Smash\\obj_Hulk_Dough_Smash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c0cb309-d547-4e35-990f-48516cbea494",
+            "Value": {
+                "id": "afa16359-edae-49e8-8904-ddbe41d6c1cc",
+                "resourcePath": "objects\\obj_SHATTER\\obj_SHATTER.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "52c8fb0e-6662-4d8a-a5fa-ba9b69adae71",
             "Value": {
                 "id": "a1df4814-6708-426d-bb1c-8828f524d1fe",
@@ -148,6 +180,14 @@
                 "id": "12ba9c92-cbb4-416f-b6b4-89b6c8b5b5f9",
                 "resourcePath": "scripts\\scr_order2\\scr_order2.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5633f9da-7a68-45de-92f3-93e495131131",
+            "Value": {
+                "id": "5068c2a7-8ae4-4d33-ac54-4eb1f34f845e",
+                "resourcePath": "objects\\obj_Hulk_Cheese_Smash\\obj_Hulk_Cheese_Smash.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -423,6 +463,22 @@
             }
         },
         {
+            "Key": "b64bdc72-ee3f-4f7a-98fd-78e72dba1065",
+            "Value": {
+                "id": "849ae4fb-d0af-45a3-bbd6-9801ac641d45",
+                "resourcePath": "objects\\obj_Hulk_Tomato_Smash\\obj_Hulk_Tomato_Smash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6ba9482-9016-4d76-93e8-f844b4136ed1",
+            "Value": {
+                "id": "3ce50b2a-23b4-48af-804c-f8d0e9f2cab4",
+                "resourcePath": "sprites\\sprite29\\sprite29.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b778b43e-a69a-4ec8-b304-f280674356f8",
             "Value": {
                 "id": "422bb00c-b91f-4f5c-854d-ced5ad8720c8",
@@ -516,6 +572,22 @@
                 "id": "bb3df0b9-24b7-4949-8d1e-890df4cf8181",
                 "resourcePath": "objects\\obj_pizza_make\\obj_pizza_make.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4567270-b8bb-4df1-b233-20c8e6188c82",
+            "Value": {
+                "id": "51e7320a-4293-4e05-9d01-f81c93be10f5",
+                "resourcePath": "sprites\\sprite26\\sprite26.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e4f2575f-f691-4b8b-9d11-f22d59525127",
+            "Value": {
+                "id": "802ec753-2756-4882-b5f9-8f9335dcc677",
+                "resourcePath": "sprites\\sprite28\\sprite28.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
