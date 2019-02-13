@@ -11,7 +11,7 @@ switch(cook_step)
 	case 3:
 	window_set_cursor(cr_none);
 	instance_create_depth(x, y, 150, obj_pizza);
-	obj_box.box_step = 1;
+	//obj_box.box_step = 1;
 	instance_destroy();
 	break;
 }
