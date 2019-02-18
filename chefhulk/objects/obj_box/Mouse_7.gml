@@ -3,6 +3,7 @@ switch(box_step)
 	case 0:
 	box_step = 1;
 	instance_destroy(obj_pizza);
+	window_set_cursor(cr_handpoint);
 	break;
 	
 	case 1:
