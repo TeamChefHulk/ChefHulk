@@ -11,6 +11,7 @@ switch(pizza_step)
 	case 7:
 	case 8:
 	draw_self();
+	if (!global.slider_show){if (current_second%2 == 0)effect_create_above(ef_ring, x, y, 1, c_lime);}
 	break;
 		
 	case 3:

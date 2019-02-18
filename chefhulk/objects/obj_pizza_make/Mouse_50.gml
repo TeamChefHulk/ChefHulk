@@ -11,7 +11,7 @@ switch(pizza_step)
 		var snd = audio_play_sound(s3, 10, false);
 		audio_sound_set_track_position(snd, sStart);
 		audio_play_sound(smack1, 8, false);
-		instance_create_depth(mouse_x, mouse_y, 200, obj_SHATTER);
+		instance_create_depth(mouse_x, mouse_y, 150, obj_SHATTER);
 		shake = 1; alarm[0] = 0.25 * room_speed;
 		obj_hulk.sprite_index = spr_hulk_dough; obj_hulk.alarm[0] = 2 * room_speed;}
 	break;
@@ -22,7 +22,7 @@ switch(pizza_step)
 		audio_sound_set_track_position(snd, sStart);
 		audio_play_sound(splat1, 8, false);
 		shake = 1; alarm[0] = 0.25 * room_speed;
-		instance_create_depth(mouse_x, mouse_y, 200, obj_SHATTER);
+		instance_create_depth(mouse_x, mouse_y, 150, obj_SHATTER);
 		obj_hulk.sprite_index = spr_hulk_sauce; obj_hulk.alarm[0] = 2 * room_speed;}
 	break;
 	
@@ -34,7 +34,7 @@ switch(pizza_step)
 	audio_sound_set_track_position(snd, sStart);
 	audio_play_sound(splat1, 8, false);
 	shake = 1; alarm[0] = 0.25 * room_speed;
-	instance_create_depth(mouse_x, mouse_y, 200, obj_SHATTER);
+	instance_create_depth(mouse_x, mouse_y, 150, obj_SHATTER);
 	obj_hulk.sprite_index = spr_hulk_chz; obj_hulk.alarm[0] = 1 * room_speed;}
 	break;
 }
